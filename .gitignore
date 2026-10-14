@@ -1,0 +1,11 @@
+build/
+build-*/
+cmake-build-*/
+.backups/
+.DS_Store
+*.dSYM/
+*.component/
+*.vst3/
+*.app/
+.env
+.env.*
